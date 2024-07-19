@@ -1,4 +1,4 @@
-Those 3 filters was an assignment in Image Processing Course:
+Those 3 filters were an assignment in Image Processing Course:
 
 1.Histogram Statistics Filter
 
